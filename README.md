@@ -19,9 +19,13 @@ This project is an interactive AI-powered assistant designed to educate users ab
 - Transformers Library
 
 ## 📂 Project Structure
+
 ├── app.py # Main Python script to run the AI Agent
+
 ├── finance_literacy.txt # Knowledge base text file
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # This file
 
 bash
