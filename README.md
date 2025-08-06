@@ -32,14 +32,21 @@ This project is an interactive AI-powered assistant designed to educate users ab
 
 ## ⚙️ Installation & Setup
 
-git clone https://github.com/yourusername/AI-Agent-Digital-Financial-Literacy.git
+git clone
+
+https://github.com/yourusername/AI-Agent-Digital-Financial-Literacy.git
+
+
 cd AI-Agent-Digital-Financial-Literacy
+
 pip install -r requirements.txt
 
 Add your Replicate API Token in app.py:
+
 os.environ['REPLICATE_API_TOKEN'] = "your_replicate_token"
 
 Run the App:
+
 python app.py
 
 📚 Acknowledgements
